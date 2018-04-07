@@ -1,5 +1,6 @@
 import lxml.html
 # scraper file is in my repository called "ScrapingTools"
+# https://www.freelancer.com/projects/data-entry/vba-excel-website-data-scraping/
 import scraper as sc
 
 
