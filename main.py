@@ -4,7 +4,6 @@ import lxml.html
 import scraper as sc
 
 
-
 class Scraping:
 
     def __init__(self):
